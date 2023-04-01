@@ -27,3 +27,7 @@ Sub
 Fun  
 <a href="" target="_blank"><img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/></a>
 
+- 🔭 I’m currently working on `DAPADA` and `CareerDive` as a FrontEnd Developer
+- ⚡ Fun fact: I'm graduating student "Electrical and Computer Engineering" which is not "Computer Science"
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steinjun0&show_icons=true&theme=radical)
