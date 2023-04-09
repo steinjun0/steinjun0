@@ -31,7 +31,12 @@ Fun
 <a href="" target="_blank"><img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/></a>
 
 - 🔭 I’m currently working on `DAPADA` and `CareerDive` as a FrontEnd Developer
-- ⚡ Fun fact: I'm graduating student "Electrical and Computer Engineering" which is not "Computer Science"
+
+## Human
+⚡ I'm love music, art and camera 🎼🎨📸
+  - <a href="https://www.youtube.com/@stein1480" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"/></a> Music 🎼
+  - <a href="https://www.instagram.com/stein_jun.art/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> Art 🎨
+  - <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> Life and Camera 📸
 
 ## Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steinjun0&show_icons=true&theme=radical)
