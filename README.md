@@ -39,6 +39,6 @@ Fun
   - <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> Life and Camera 📸
 
 ## Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steinjun0&show_icons=true&theme=radical)  
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steinjun0&show_icons=true&theme=radical)  -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1142308)](https://solved.ac/1142308/)
