@@ -36,7 +36,7 @@ Fun
 ⚡ I'm love music, art and camera 🎼🎨📸
   - <a href="https://www.youtube.com/@stein1480" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"/></a> Music 🎼
   - <a href="https://www.instagram.com/stein_jun.art/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> Art 🎨
-  - <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> Life and Camera 📸
+  - <a href="https://www.instagram.com/junyoungseok/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> Life and Camera 📸
 
 ## Status
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steinjun0&show_icons=true&theme=radical)  -->
