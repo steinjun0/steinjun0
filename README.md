@@ -31,6 +31,7 @@ Fun
 <a href="" target="_blank"><img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/></a>
 
 - 🔭 I’m currently working on `DAPADA` and `CareerDive` as a FrontEnd Developer
+- 📚 University of Seoul. Electrical and Computer Engineering.
 
 ## Human
 ⚡ I'm love music, art and camera 🎼🎨📸
