@@ -1,6 +1,8 @@
 ## Hello. I'm Stein 👋
 
 My Blog is <a href="https://blog.steinjun.net/">blog.steinjun.net</a>
+- 🔭 I’m currently working on `DAPADA` and `CareerDive` as a FrontEnd Developer
+- 🏫 University of Seoul. Electrical and Computer Engineering.
 
 <!--
 **steinjun0/steinjun0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,9 +40,6 @@ Not using (over 1 year)
 
 Fun  
 <a href="" target="_blank"><img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/></a>
-
-- 🔭 I’m currently working on `DAPADA` and `CareerDive` as a FrontEnd Developer
-- 📚 University of Seoul. Electrical and Computer Engineering.
 
 ## Human
 ⚡ I'm love music, art and camera 🎼🎨📸
