@@ -1,7 +1,8 @@
 ## Hello. I'm Stein 👋
 
 My Blog is <a href="https://blog.steinjun.net/">blog.steinjun.net</a>
-- 🔭 I’m currently working on `DAPADA` and `CareerDive` as a FrontEnd Developer
+- 🔭 I’m currently working on `Toss Securities` as a FrontEnd Developer
+  - Worked with `DACON`, `DAPADA`, and `CareerDive`
 - 🏫 University of Seoul. Electrical and Computer Engineering.
 
 <!--
